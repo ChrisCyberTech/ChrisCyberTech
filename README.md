@@ -68,7 +68,8 @@
 
 I’m transitioning into cybersecurity from a business & project management background, and I’m building my skills through **hands-on labs instead of theory alone**. I like breaking things, fixing them again, and documenting the process so I can teach it later.
 
----
+<br>
+
 
 <div align="center">
 
