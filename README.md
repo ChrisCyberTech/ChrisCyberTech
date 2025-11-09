@@ -75,7 +75,7 @@ I’m transitioning into cybersecurity from a business & project management back
 <table style="font-size:24px; line-height:1.2; border-collapse:collapse;">
    <!-- Boss row (behind/front line) -->
   <tr>
-    <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
+    <td>💀</td><td>💀</td><td>💀</td><td>💥</td><td>💀</td>
     <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
     <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
   </tr>
@@ -96,7 +96,7 @@ I’m transitioning into cybersecurity from a business & project management back
   <!-- Row 3 -->
   <tr>
     <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>💥</td><td>👾</td><td>👾</td>
     <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
   </tr>
 
@@ -104,14 +104,14 @@ I’m transitioning into cybersecurity from a business & project management back
   <tr>
     <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
     <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
-    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+    <td>💥</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
   </tr>
 
   <!-- Row 5 -->
   <tr>
     <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
     <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>💥</td>
   </tr>
 
  
