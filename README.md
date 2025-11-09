@@ -79,11 +79,20 @@ I’m transitioning into cybersecurity from a business & project management back
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisCyberTech&show_icons=true&theme=react&hide_border=true&custom_title=Luis%20C%20Mejia%20|%20Cyber%20Labs&icon_color=79ff97&bg_color=0d1117&text_color=9f9f9f&title_color=ffffff" />
+<pre>
+
+🟥  LEVEL 1-1: HELP DESK MODE  🟥
+────────────────────────────────
+🧑‍💻  Player 1: IT Technician
+📦  Ticket: "My screen is frozen!"
+🍄  Tools: RDP, PowerShell, Reboot.exe
+🎯  Goal: Fix issue. Save the day. Level up.
+
+[ PRESS START ]
+
+</pre>
 </p>
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/150/ffffff/skull.png" width="90"/>
-</p>
+
 
 ## 📬 Connect
 
