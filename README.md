@@ -78,6 +78,12 @@ I’m transitioning into cybersecurity from a business & project management back
 </p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20Labs-00ff00?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Windows%20%7C%20SOC%20%7C%20Automation-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Theme-Dark%20Mode-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
 
 ## 📬 Connect
 
