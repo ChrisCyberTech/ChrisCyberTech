@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Luis C. Mejia</h1>
+<h1 align="center">👋 Hi, I'm Christian Mejia</h1>
 <p align="center">
   Cybersecurity student at UCLA Extension • Building hands-on labs to strengthen my IT & security skills
 </p>
