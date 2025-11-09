@@ -76,27 +76,6 @@ I’m transitioning into cybersecurity from a business & project management back
   <img src="https://github-readme-stats.vercel.app/api?username=ChrisCyberTech&show_icons=true&theme=react&hide_border=true" height="145"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisCyberTech&layout=compact&theme=react&hide_border=true" height="145"/>
 </p>
-<p align="center">
-  <img src="https://via.placeholder.com/110/0a3d91/ffffff?text=L" width="95" style="border-radius:50%;"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisCyberTech&show_icons=true&theme=react&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/110/f4d03f/000000?text=L" width="95" style="border-radius:10px; image-rendering:pixelated;"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisCyberTech&show_icons=true&theme=react&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/3l0YfC3.png" width="95" style="border-radius:50%;"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisCyberTech&show_icons=true&theme=react&hide_border=true" />
-</p>
 
 ---
 
