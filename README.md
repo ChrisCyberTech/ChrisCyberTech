@@ -70,15 +70,26 @@ I’m transitioning into cybersecurity from a business & project management back
 
 ---
 
-<p align="center" style="font-size: 2.3rem;">
-👾 👾 👾 👾 👾  
-👾 👾 👾 👾 👾  
-👾 👾  
+<!-- Space Invaders Progress Tracker -->
+
+<p align="center" style="font-size: 1.9rem;">
+💀 💀 💀 💀 💀 💀 💀 💀 💀 💀 💥 💀 💀 💀 💀
+👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾  
+🦠 👾 🦠 👾 🦠 👾 🦠 💥 🦠 👾 🦠 👾 🦠 👾 🦠  
+👾 💥 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 💥 👾  
+🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 💥 🦠 👾 🦠 👾 🦠  
+💥 🦠 👾 💥 👾 🦠 💥 🦠 👾 🦠 👾 💥 💥 🦠 👾  
+  
 </p>
-   <p> | </p>
-<p align="center" style="font-size: 2.5rem;">
-    🔺
+
+<p align="center" style="font-size: 2rem;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔺  
 </p>
+
+<!-- Use the line below when boss is defeated -->
+<!-- 💥 💥 💥 💥 💥 -->
 
 
 ---
