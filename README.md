@@ -111,7 +111,7 @@ I’m transitioning into cybersecurity from a business & project management back
   <tr>
     <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
     <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>💥</td>
+    <td>💥</td><td>👾</td><td>💥</td><td>👾</td><td>💥</td>
   </tr>
 
  
