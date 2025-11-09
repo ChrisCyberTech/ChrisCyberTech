@@ -76,42 +76,42 @@ I’m transitioning into cybersecurity from a business & project management back
    <!-- Boss row (behind/front line) -->
   <tr>
     <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
-    <td></td><td></td><td>💥</td><td></td><td></td>
-    <td>💥</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
+    <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
+    <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
   </tr>
   <!-- Row 1 -->
   <tr>
     <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>💥</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>👾</td><td>💥</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
     <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
-    <td>🦠</td><td>💥</td><td>🦠</td><td>💥</td><td>🦠</td>
-    <td>💥</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
     <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>💥</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>💥</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
   </tr>
 
   <!-- Row 4 -->
   <tr>
     <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
-    <td>🦠</td><td>💥</td><td>🦠</td><td>🦠</td><td>💥</td>
-    <td>💥</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
   </tr>
 
   <!-- Row 5 -->
   <tr>
     <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>💥</td><td>👾</td><td>💥</td><td>👾</td>
-    <td>💥</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
   </tr>
 
  
