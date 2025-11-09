@@ -76,23 +76,18 @@ I’m transitioning into cybersecurity from a business & project management back
   <img src="https://github-readme-stats.vercel.app/api?username=ChrisCyberTech&show_icons=true&theme=react&hide_border=true" height="145"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisCyberTech&layout=compact&theme=react&hide_border=true" height="145"/>
 </p>
-
----
 <p align="center">
 <pre>
 
-🟥  LEVEL 1-1: HELP DESK MODE  🟥
-────────────────────────────────
-🧑‍💻  Player 1: IT Technician
-📦  Ticket: "My screen is frozen!"
-🍄  Tools: RDP, PowerShell, Reboot.exe
-🎯  Goal: Fix issue. Save the day. Level up.
-
-[ PRESS START ]
+       __
+  ___( o)>
+  \ <_ )  
+   `---'
 
 </pre>
 </p>
 
+---
 
 ## 📬 Connect
 
