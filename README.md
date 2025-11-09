@@ -79,11 +79,11 @@ I’m transitioning into cybersecurity from a business & project management back
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Labs-00ff00?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Windows%20%7C%20SOC%20%7C%20Automation-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Theme-Dark%20Mode-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisCyberTech&show_icons=true&theme=react&hide_border=true&custom_title=Luis%20C%20Mejia%20|%20Cyber%20Labs&icon_color=79ff97&bg_color=0d1117&text_color=9f9f9f&title_color=ffffff" />
 </p>
-
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/150/ffffff/skull.png" width="90"/>
+</p>
 
 ## 📬 Connect
 
