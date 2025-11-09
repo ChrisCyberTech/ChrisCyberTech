@@ -70,35 +70,14 @@ I’m transitioning into cybersecurity from a business & project management back
 
 ---
 
-## 🧪 Lab Progress Dashboard
+<!-- Retro Pink Progress Bars -->
+<pre style="color:#ff4fa3; font-size:16px; line-height:1.35; margin:0; font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono','Courier New', monospace;">
+Help Desk Labs    [██████████] 100%
+Windows Server    [██████████] 100%
+SOC Labs          [████████░░]  80%
+Home Labs         [░░░░░░░░░░]   0%
+</pre>
 
-### Track Status
-- ✅ = done 🛠️ = in progress 📅 = planned 🔗 = evidence link
-
-### Overall Progress
-Help Desk ▰▰▰▰▰▰▰▱▱▱ 70%  SOC ▰▰▰▰▰▱▱▱▱▱ 50%
-
----
-
-### 🖥️ Help Desk Labs
-| # | Lab Title | Status | Evidence | Last update |
-|---|-----------|-------:|:--------:|:-----------:|
-| 1 | Network Share Setup | ✅ | 🔗 [README](./help-desk-portfolio/lab1-network-share-setup) | 2025-11-08 |
-| 2 | Password Reset Simulation | ✅ | 🔗 [README](./help-desk-portfolio/lab2-password-reset) | 2025-11-08 |
-| 3 | Network Drive Mapping (PowerShell) | ✅ | 🔗 [README](./help-desk-portfolio/lab3-network-drive) | 2025-11-08 |
-| 4 | Active Directory OU + GPO Basics | 🛠️ | 🔗 [README](./help-desk-portfolio/lab4-active-directory-use) | — |
-| 5 | Troubleshooting Walkthrough | 📅 | — | — |
-
----
-
-### 🛡️ SOC Labs
-| # | Lab Title | Status | Evidence | Last update |
-|---|-----------|-------:|:--------:|:-----------:|
-| 1 | Local Sysmon Setup | ✅ | 🔗 [README](./soc-labs/soc-lab-1-sysmon) | 2025-11-06 |
-| 2 | WEF + Sysmon (Forwarding) | ✅ | 🔗 [README](./soc-labs/soc-lab-2-wef) | 2025-11-06 |
-| 3 | Splunk Ingestion + Log Search | ✅ | 🔗 [README](./soc-labs/soc-lab-3-splunk) | 2025-11-06 |
-| 4 | Wireshark + Nmap Traffic Analysis | ✅ | 🔗 [README](./soc-labs/soc-lab-4-wireshark-nmap) | 2025-11-07 |
-| 5 | Incident Response Mini-Case | 🛠️ | 🔗 [README](./soc-labs/soc-lab-5-incident-response) | — |
 
 ---
 
