@@ -98,7 +98,7 @@ I’m transitioning into cybersecurity from a business & project management back
   </tr>
 
   <tr>
-    <td>🏠 Home Labs</td>
+    <td>🏠 Home Labs with Hardware</td>
     <td align="center"><code>[◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️]</code> 0%</td>
     <td align="center">🔴</td>
   </tr>
