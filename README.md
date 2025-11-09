@@ -70,78 +70,43 @@ I’m transitioning into cybersecurity from a business & project management back
 
 ---
 
-<div align="center">
+## 🧪 Lab Progress Dashboard
 
-<table style="font-size:24px; line-height:1.2; border-collapse:collapse;">
-   <!-- Boss row (behind/front line) -->
-  <tr>
-    <td>💀</td><td>💀</td><td>💀</td><td>💥</td><td>💀</td>
-    <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
-    <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
-  </tr>
-  <!-- Row 1 -->
-  <tr>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-  </tr>
+### Track Status
+- ✅ = done 🛠️ = in progress 📅 = planned 🔗 = evidence link
 
-  <!-- Row 2 -->
-  <tr>
-    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
-    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
-    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
-  </tr>
+### Overall Progress
+Help Desk ▰▰▰▰▰▰▰▱▱▱ 70%  SOC ▰▰▰▰▰▱▱▱▱▱ 50%
 
-  <!-- Row 3 -->
-  <tr>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>💥</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-  </tr>
+---
 
-  <!-- Row 4 -->
-  <tr>
-    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
-    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
-    <td>💥</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
-  </tr>
+### 🖥️ Help Desk Labs
+| # | Lab Title | Status | Evidence | Last update |
+|---|-----------|-------:|:--------:|:-----------:|
+| 1 | Network Share Setup | ✅ | 🔗 [README](./help-desk-portfolio/lab1-network-share-setup) | 2025-11-08 |
+| 2 | Password Reset Simulation | ✅ | 🔗 [README](./help-desk-portfolio/lab2-password-reset) | 2025-11-08 |
+| 3 | Network Drive Mapping (PowerShell) | ✅ | 🔗 [README](./help-desk-portfolio/lab3-network-drive) | 2025-11-08 |
+| 4 | Active Directory OU + GPO Basics | 🛠️ | 🔗 [README](./help-desk-portfolio/lab4-active-directory-use) | — |
+| 5 | Troubleshooting Walkthrough | 📅 | — | — |
 
-  <!-- Row 5 -->
-  <tr>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>💥</td><td>👾</td><td>👾</td>
-    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
-  </tr>
+---
 
- 
+### 🛡️ SOC Labs
+| # | Lab Title | Status | Evidence | Last update |
+|---|-----------|-------:|:--------:|:-----------:|
+| 1 | Local Sysmon Setup | ✅ | 🔗 [README](./soc-labs/soc-lab-1-sysmon) | 2025-11-06 |
+| 2 | WEF + Sysmon (Forwarding) | ✅ | 🔗 [README](./soc-labs/soc-lab-2-wef) | 2025-11-06 |
+| 3 | Splunk Ingestion + Log Search | ✅ | 🔗 [README](./soc-labs/soc-lab-3-splunk) | 2025-11-06 |
+| 4 | Wireshark + Nmap Traffic Analysis | ✅ | 🔗 [README](./soc-labs/soc-lab-4-wireshark-nmap) | 2025-11-07 |
+| 5 | Incident Response Mini-Case | 🛠️ | 🔗 [README](./soc-labs/soc-lab-5-incident-response) | — |
 
-  <!-- Spacer -->
-  <tr><td colspan="15" style="height:14px;"></td></tr>
+---
 
-  <!-- Missile row 1 -->
-  <tr>
-    <td></td><td></td><td></td><td></td><td></td><td></td>
-    <td></td><td>|</td><td></td><td></td><td></td><td></td>
-    <td></td><td></td><td></td>
-  </tr>
+### 🔧 To-Do (Next Up)
+- [ ] Finish Help Desk Lab 4 README and screenshots
+- [ ] Flesh out SOC Lab 5 incident timeline + artifacts
+- [ ] Add links to Splunk searches and saved dashboards
 
-  <!-- Missile row 2 -->
-  <tr>
-    <td></td><td></td><td></td><td></td><td></td><td></td>
-    <td></td><td>|</td><td></td><td></td><td></td><td></td>
-    <td></td><td></td><td></td>
-  </tr>
-
-  <!-- Ship row -->
-  <tr>
-    <td></td><td></td><td></td><td></td><td></td><td></td>
-    <td></td><td>🔺</td><td></td><td></td><td></td><td></td>
-    <td></td><td></td><td></td>
-  </tr>
-</table>
-
-</div>
 
 
 ---
