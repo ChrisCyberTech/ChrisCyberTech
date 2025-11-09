@@ -70,26 +70,77 @@ I’m transitioning into cybersecurity from a business & project management back
 
 ---
 
-<!-- Space Invaders Progress Tracker -->
+<div align="center">
 
-<p align="center" style="font-size: 1.9rem;">
-💀 💀 💀 💀 💀 💀 💀 💀 💀 💀 💥 💀 💀 💀 💀
-👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾  
-🦠 👾 🦠 👾 🦠 👾 🦠 💥 🦠 👾 🦠 👾 🦠 👾 🦠  
-👾 💥 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 👾 💥 👾  
-🦠 👾 🦠 👾 🦠 👾 🦠 👾 🦠 💥 🦠 👾 🦠 👾 🦠  
-💥 🦠 👾 💥 👾 🦠 💥 🦠 👾 🦠 👾 💥 💥 🦠 👾  
-  
-</p>
+<table style="font-size:24px; line-height:1.2; border-collapse:collapse;">
+  <!-- Row 1 -->
+  <tr>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+  </tr>
 
-<p align="center" style="font-size: 2rem;">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔺  
-</p>
+  <!-- Row 2 -->
+  <tr>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+  </tr>
 
-<!-- Use the line below when boss is defeated -->
-<!-- 💥 💥 💥 💥 💥 -->
+  <!-- Row 3 -->
+  <tr>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+    <td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td><td>🦠</td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+    <td>👾</td><td>👾</td><td>👾</td><td>👾</td><td>👾</td>
+  </tr>
+
+  <!-- Boss row (behind/front line) -->
+  <tr>
+    <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
+    <td></td><td></td><td>💥</td><td></td><td></td>
+    <td>💀</td><td>💀</td><td>💀</td><td>💀</td><td>💀</td>
+  </tr>
+
+  <!-- Spacer -->
+  <tr><td colspan="15" style="height:14px;"></td></tr>
+
+  <!-- Missile row 1 -->
+  <tr>
+    <td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td>|</td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td>
+  </tr>
+
+  <!-- Missile row 2 -->
+  <tr>
+    <td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td>|</td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td>
+  </tr>
+
+  <!-- Ship row -->
+  <tr>
+    <td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td>🔺</td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td>
+  </tr>
+</table>
+
+</div>
 
 
 ---
