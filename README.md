@@ -77,9 +77,16 @@ I’m transitioning into cybersecurity from a business & project management back
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisCyberTech&layout=compact&theme=react&hide_border=true" height="145"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChrisCyberTech&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
+<p align="center" style="font-size: 2.3rem;">
+👾 👾 👾 👾 👾  
+👾 👾 👾 👾 👾  
+👾 👾  
 </p>
+    |
+<p align="center" style="font-size: 2.5rem;">
+    🔺
+</p>
+
 
 ---
 
