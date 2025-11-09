@@ -43,6 +43,9 @@
 </p>
 
 ---
+<div style="width:260px;height:18px;border:2px solid deeppink;border-radius:4px;overflow:hidden">
+  <div style="width:100%;height:100%;background:deeppink"></div>
+</div>
 
 ## 🎯 Current Learning Path
 
@@ -68,73 +71,42 @@
 
 I’m transitioning into cybersecurity from a business & project management background, and I’m building my skills through **hands-on labs instead of theory alone**. I like breaking things, fixing them again, and documenting the process so I can teach it later.
 
-<br>
-
-
+---
 <div align="center">
 
-  <!-- Header -->
-  <h3 style="color:#ff4fa3; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono','Courier New', monospace; letter-spacing:.4px; margin:0 0 12px;">
-    🕹️ Retro Lab Progress
-  </h3>
+  <h3 style="margin:0 0 10px; font-family:ui-monospace;">🕹️ Lab Progress</h3>
 
-  <!-- Borderless table -->
-  <table style="border-collapse:collapse; border-spacing:0; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono','Courier New', monospace; font-size:18px;">
-    <!-- Help Desk 100% -->
-    <tr>
-      <td style="padding:6px 12px 6px 0;">🖥️&nbsp; Help Desk Labs</td>
-      <td style="padding:6px 12px;">
-        <div style="width:220px;height:14px;border:2px solid #ff4fa3;border-radius:3px;display:inline-block;vertical-align:middle;position:relative;">
-          <div style="background:#ff4fa3;width:100%;height:100%;"></div>
-        </div>
-      </td>
-      <td style="padding:6px 12px;color:#ff4fa3;">100%</td>
-      <td style="padding:6px 0;">✅</td>
-    </tr>
+<table align="center">
+  <tr><th align="left">Lab</th><th align="center">Progress</th><th align="center">Status</th></tr>
 
-    <!-- Windows Server 100% -->
-    <tr>
-      <td style="padding:6px 12px 6px 0;">🪟&nbsp; Windows Server</td>
-      <td style="padding:6px 12px;">
-        <div style="width:220px;height:14px;border:2px solid #ff4fa3;border-radius:3px;display:inline-block;vertical-align:middle;position:relative;">
-          <div style="background:#ff4fa3;width:100%;height:100%;"></div>
-        </div>
-      </td>
-      <td style="padding:6px 12px;color:#ff4fa3;">100%</td>
-      <td style="padding:6px 0;">✅</td>
-    </tr>
+  <tr>
+    <td>🖥️ Help Desk</td>
+    <td align="center"><code>[🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪]</code> 100%</td>
+    <td align="center">✅</td>
+  </tr>
 
-    <!-- SOC Labs 80% -->
-    <tr>
-      <td style="padding:6px 12px 6px 0;">🛡️&nbsp; SOC Labs</td>
-      <td style="padding:6px 12px;">
-        <div style="width:220px;height:14px;border:2px solid #ff4fa3;border-radius:3px;display:inline-block;vertical-align:middle;position:relative;">
-          <div style="background:#ff4fa3;width:80%;height:100%;"></div>
-        </div>
-      </td>
-      <td style="padding:6px 12px;color:#ff4fa3;">80%</td>
-      <td style="padding:6px 0;">🟡</td>
-    </tr>
+  <tr>
+    <td>🪟 Windows Server</td>
+    <td align="center"><code>[🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪]</code> 100%</td>
+    <td align="center">✅</td>
+  </tr>
 
-    <!-- Home Labs 0% (dotted pattern) -->
-    <tr>
-      <td style="padding:6px 12px 6px 0;">🏠&nbsp; Home Labs</td>
-      <td style="padding:6px 12px;">
-        <div style="width:220px;height:14px;border:2px solid #ff4fa3;border-radius:3px;display:inline-block;vertical-align:middle;position:relative;">
-          <div style="width:100%;height:100%;
-                      background:repeating-linear-gradient(90deg,#ff4fa3 0 3px,transparent 3px 6px);
-                      opacity:.9;"></div>
-        </div>
-      </td>
-      <td style="padding:6px 12px;color:#ff4fa3;">0%</td>
-      <td style="padding:6px 0;">🔴</td>
-    </tr>
-  </table>
+  <tr>
+    <td>🛡️ SOC Labs</td>
+    <td align="center"><code>[🟪🟪🟪🟪🟪🟪🟪🟪◻️◻️]</code> 80%</td>
+    <td align="center">🟡</td>
+  </tr>
 
-  <div style="margin-top:6px;font-size:12px;opacity:.8;">
-    <span style="color:#ff4fa3;">Pink bars = progress</span> • 🟡 In progress • 🔴 Not started
-  </div>
+  <tr>
+    <td>🏠 Home Labs</td>
+    <td align="center"><code>[◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️]</code> 0%</td>
+    <td align="center">🔴</td>
+  </tr>
+</table>
 
+<p align="center" style="font-size:12px;opacity:.85;">
+  🟪 = complete &nbsp;•&nbsp; ◻️ = remaining
+</p>
 </div>
 
 ---
