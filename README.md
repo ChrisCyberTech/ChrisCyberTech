@@ -50,10 +50,11 @@
 ## 🎯 Current Learning Path
 
 ✅ Build Windows domain lab  
-✅ Collect logs w/ Sysmon + WEF  
-✅ Ingest logs into SIEM (Splunk)  
-🔜 Perform incident investigation + write IR report  
-🔜 Introduce Linux + Elastic Stack  
+✅ Collect and centralize logs with Sysmon + WEF  
+✅ Ingest and analyze events in Splunk SIEM  
+✅ Perform endpoint incident response using native Windows tools  
+🔜 Build hardware-based home labs (Raspberry Pi + Pi-hole network ad blocker)  
+
 
 ---
 
@@ -112,9 +113,10 @@ I’m transitioning into cybersecurity from a business & project management back
 ---
 
 ### 🔧 To-Do (Next Up)
-- [ ] Finish Help Desk Lab 4 README and screenshots
-- [ ] Flesh out SOC Lab 5 incident timeline + artifacts
-- [ ] Add links to Splunk searches and saved dashboards
+
+- [ ] Complete SOC Lab 5 incident timeline + artifact documentation  
+- [ ] Make a shopping list and purchase hardware for the first home-lab setup (Raspberry Pi + Pi-hole)  
+- [ ] Draft new README section for hardware / network security labs  
 
 
 
