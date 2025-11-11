@@ -11,7 +11,7 @@
 | Repo | Description |
 |------|-------------|
 | 🛠️ **[Help Desk Portfolio](https://github.com/ChrisCyberTech/help-desk-portfolio)** | Windows troubleshooting labs, AD user management, GPO, DNS/DHCP, PowerShell tasks |
-| 🛡️ **[SOC Labs](https://github.com/ChrisCyberTech/soc-labs)** | Sysmon + WEF log collection, Splunk SIEM, Wireshark + Nmap, incident investigation workflow |
+| 🛡️ **[SOC Labs](https://github.com/ChrisCyberTech/soc-labs)** | Sysmon + WEF log collection, Splunk SIEM analysis, Wireshark + Nmap network forensics, and endpoint incident response using native Windows tools |
 | 🖥️ **[Windows Server Installation](https://github.com/ChrisCyberTech/windows-server-installation)** | Domain controller build in UTM (Windows Server 2025, AD DS, DNS, static IP, virtualization setup) |
 
 ---
