@@ -82,7 +82,7 @@ I’m transitioning into cybersecurity from a business & project management back
 
   <tr>
     <td>🖥️ Help Desk</td>
-    <td align="center"><code>[🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪]</code> 100%</td>
+    <td align="center"><code>[🟪🟪🟪🟪🟪◻️◻️◻️◻️◻️]</code> 50%</td>
     <td align="center">✅</td>
   </tr>
 
