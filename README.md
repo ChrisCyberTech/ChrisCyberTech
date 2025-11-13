@@ -95,7 +95,7 @@ I’m transitioning into cybersecurity from a business & project management back
   <tr>
     <td>🛡️ SOC Labs</td>
     <td align="center"><code>[🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪]</code> 100%</td>
-    <td align="center">🟡</td>
+    <td align="center">✅</td>
   </tr>
 
   <tr>
