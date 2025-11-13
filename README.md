@@ -10,20 +10,22 @@
 
 | Repo | Description |
 |------|-------------|
-| 🛠️ **[Help Desk Portfolio](https://github.com/ChrisCyberTech/help-desk-portfolio)** | Windows troubleshooting labs, AD user management, GPO, DNS/DHCP, PowerShell tasks |
-| 🛡️ **[SOC Labs](https://github.com/ChrisCyberTech/soc-labs)** | Sysmon + WEF log collection, Splunk SIEM analysis, Wireshark + Nmap network forensics, and endpoint incident response using native Windows tools |
-| 🖥️ **[Windows Server Installation](https://github.com/ChrisCyberTech/windows-server-installation)** | Domain controller build in UTM (Windows Server 2025, AD DS, DNS, static IP, virtualization setup) |
+| 🛠️ **[Help Desk Portfolio](https://github.com/ChrisCyberTech/help-desk-portfolio)** | Windows troubleshooting labs, AD user management, drive mapping, GPO, password resets, and ticket-style diagnostic workflows. |
+| 🖥️ **[IT Admin Portfolio](https://github.com/ChrisCyberTech/it-admin-portfolio)** | GPO management, DNS/DHCP setup, file-server permissions, AGDLP group design, backup & restore, and enterprise-style Windows Server admin tasks. |
+| 🛡️ **[SOC Labs](https://github.com/ChrisCyberTech/soc-labs)** | Sysmon + WEF log collection, Splunk SIEM ingestion, Wireshark packet investigations, Nmap scans, and Windows Event Log incident response workflows. |
+| 🖥️ **[Windows Server Installation](https://github.com/ChrisCyberTech/windows-server-installation)** | Domain controller build on UTM (Windows Server 2025, AD DS, DNS, static IP, virtualization, and network configuration). |
 
 ---
 
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  
+
 <!-- OS / Servers -->
 <img src="https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Active%20Directory-003366?logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Group%20Policy-2D7DB3?logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/DNS/DHCP-005A9C?logo=windows&logoColor=white" />
 
 <!-- Security -->
 <img src="https://img.shields.io/badge/Sysmon-000000?logo=microsoft&logoColor=white" />
@@ -43,18 +45,32 @@
 </p>
 
 ---
+
 <div style="width:260px;height:18px;border:2px solid deeppink;border-radius:4px;overflow:hidden">
   <div style="width:100%;height:100%;background:deeppink"></div>
 </div>
 
 ## 🎯 Current Learning Path
 
-✅ Build Windows domain lab  
-✅ Collect and centralize logs with Sysmon + WEF  
-✅ Ingest and analyze events in Splunk SIEM  
-✅ Perform endpoint incident response using native Windows tools  
-🔜 Build hardware-based home labs (Raspberry Pi + Pi-hole network ad blocker)  
+### 🔹 Windows & IT Administration
+- Build enterprise-level AD infrastructure  
+- Manage users, groups, permissions (AGDLP)  
+- Configure DNS, DHCP, Group Policy  
+- Shadow Copies, file-server permissions  
+- Software deployment via GPO  
 
+### 🔹 Security & SOC Analysis
+- Collect Sysmon logs locally and centrally  
+- Forward logs via WEF  
+- Ingest data into Splunk  
+- Perform threat analysis using Event Viewer  
+- Investigate endpoints using native tools  
+- Packet + network analysis with Wireshark & Nmap  
+
+### 🔹 Home Lab Expansion
+- Deploy Raspberry Pi + Pi-hole  
+- Build personal NAS for storage + backups  
+- Improve home network segmentation & security  
 
 ---
 
@@ -63,19 +79,21 @@
 | Project | Description |
 |---------|-------------|
 | 🥧 **Raspberry Pi + Pi-hole** | Network-wide ad-blocking + DNS sinkhole setup |
-| 🗄️ **Self-Hosted NAS Storage** | Remote-accessable home NAS for media + backups |
-| 🌐 **Home Lab Networking Expansion** | VLANs, firewall rules, pfSense or OPNsense routing |
+| 🗄️ **Self-Hosted NAS Storage** | Remote-accessible NAS for backups & media |
+| 🌐 **Home Lab Networking Expansion** | VLANs, routing, firewall rules (pfSense / OPNsense) |
 
 ---
 
 ## 👤 About Me
 
-I’m transitioning into cybersecurity from a business & project management background, and I’m building my skills through **hands-on labs instead of theory alone**. I like breaking things, fixing them again, and documenting the process so I can teach it later.
+I’m transitioning into cybersecurity from a business & project management background, and I’m building my skills through **hands-on labs instead of theory**.  
+I break things, fix them, document everything, and push it to GitHub to track my growth and demonstrate real hands-on capability.
 
 ---
+
 <div align="center">
 
-  <h3 style="margin:0 0 10px; font-family:ui-monospace;">🕹️ Lab Progress</h3>
+### 🕹️ Lab Progress
 
 <table align="center">
   <tr><th align="left">Lab</th><th align="center">Progress</th><th align="center">Status</th></tr>
@@ -83,30 +101,37 @@ I’m transitioning into cybersecurity from a business & project management back
   <tr>
     <td>🖥️ Help Desk</td>
     <td align="center"><code>[🟪🟪🟪🟪🟪◻️◻️◻️◻️◻️]</code> 50%</td>
-    <td align="center">✅</td>
+    <td align="center">🟡 In Progress</td>
+  </tr>
+
+  <tr>
+    <td>🖥️ IT Admin</td>
+    <td align="center"><code>[🟪◻️◻️◻️◻️◻️◻️◻️◻️◻️]</code> 10%</td>
+    <td align="center">🟡 In Progress</td>
   </tr>
 
   <tr>
     <td>🪟 Windows Server</td>
     <td align="center"><code>[🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪]</code> 100%</td>
-    <td align="center">✅</td>
+    <td align="center">✅ Complete</td>
   </tr>
 
   <tr>
     <td>🛡️ SOC Labs</td>
     <td align="center"><code>[🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪]</code> 100%</td>
-    <td align="center">✅</td>
+    <td align="center">✅ Complete</td>
   </tr>
 
   <tr>
-    <td>🏠 Home Labs with Hardware</td>
+    <td>🏠 Hardware Home Labs</td>
     <td align="center"><code>[◻️◻️◻️◻️◻️◻️◻️◻️◻️◻️]</code> 0%</td>
-    <td align="center">🔴</td>
+    <td align="center">🔴 Not Started</td>
   </tr>
+
 </table>
 
 <p align="center" style="font-size:12px;opacity:.85;">
-  🟪 = complete &nbsp;•&nbsp; ◻️ = remaining
+  🟪 = complete • ◻️ = remaining
 </p>
 </div>
 
@@ -114,11 +139,10 @@ I’m transitioning into cybersecurity from a business & project management back
 
 ### 🔧 To-Do (Next Up)
 
-- [ ] Complete SOC Lab 5 incident timeline + artifact documentation  
-- [ ] Make a shopping list and purchase hardware for the first home-lab setup (Raspberry Pi + Pi-hole)  
-- [ ] Draft new README section for hardware / network security labs  
-
-
+- [ ] Build and document IT Admin Lab 1 (GPO Management)  
+- [ ] Complete SOC Lab 5 incident timeline + artifacts  
+- [ ] Purchase hardware for Pi-hole home lab  
+- [ ] Add new README sections for hardware / network security labs  
 
 ---
 
