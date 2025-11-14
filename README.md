@@ -100,7 +100,7 @@ I break things, fix them, document everything, and push it to GitHub to track my
 
   <tr>
     <td>🖥️ Help Desk</td>
-    <td align="center"><code>[🟪🟪🟪🟪🟪◻️◻️◻️◻️◻️]</code> 50%</td>
+    <td align="center"><code>[🟪🟪🟪🟪🟪🟪🟪🟪🟪◻️]</code> 90%</td>
     <td align="center">🟡 In Progress</td>
   </tr>
 
