@@ -16,9 +16,6 @@
 | 🖥️ **[Windows Server Installation](https://github.com/ChrisCyberTech/windows-server-installation)** | Domain controller build on UTM (Windows Server 2025, AD DS, DNS, static IP, virtualization, and network configuration). |
 | 🥧 **[Raspberry Pi Labs](https://github.com/ChrisCyberTech/raspberry-pi-labs)** | Pi-hole DNS filtering, Raspberry Pi OS setup, remote access, file sharing, hardware documentation, and home-lab networking projects. |
 
-
-| 🥧 **[Raspberry Pi Labs](https://github.com/ChrisCyberTech/raspberry-pi-labs)** | Pi-hole DNS filtering, Raspberry Pi OS setup, remote access, file sharing, hardware documentation, and home-lab networking projects. |
-
 ---
 
 ## 🧰 Tools & Technologies
