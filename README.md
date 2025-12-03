@@ -14,7 +14,7 @@
 | 🖥️ **[IT Admin Portfolio](https://github.com/ChrisCyberTech/it-admin-portfolio)** | GPO management, DNS/DHCP setup, file-server permissions, AGDLP group design, backup & restore, and enterprise-style Windows Server admin tasks. |
 | 🛡️ **[SOC Labs](https://github.com/ChrisCyberTech/soc-labs)** | Sysmon + WEF log collection, Splunk SIEM ingestion, Wireshark packet investigations, Nmap scans, and Windows Event Log incident response workflows. |
 | 🖥️ **[Windows Server Installation](https://github.com/ChrisCyberTech/windows-server-installation)** | Domain controller build on UTM (Windows Server 2025, AD DS, DNS, static IP, virtualization, and network configuration). |
-| 🥧 **[Raspberry Pi Labs](https://github.com/ChrisCyberTech/portfolio/tree/main/raspberry-pi-labs)** | Pi-hole DNS filtering, Raspberry Pi OS setup, remote access, file sharing, hardware documentation, and home-lab networking projects. |
+| 🥧 **[Raspberry Pi Labs](https://github.com/ChrisCyberTech/raspberry-pi-labs)** | Pi-hole DNS filtering, Raspberry Pi OS setup, remote access, file sharing, hardware documentation, and home-lab networking projects. |
 
 ---
 
