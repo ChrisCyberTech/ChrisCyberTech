@@ -17,6 +17,7 @@
 | 🥧 **[Raspberry Pi Labs](https://github.com/ChrisCyberTech/raspberry-pi-labs)** | Pi-hole DNS filtering, Raspberry Pi OS setup, remote access, file sharing, hardware documentation, and home-lab networking projects. |
 
 
+| 🥧 **[Raspberry Pi Labs](https://github.com/ChrisCyberTech/raspberry-pi-labs)** | Pi-hole DNS filtering, Raspberry Pi OS setup, remote access, file sharing, hardware documentation, and home-lab networking projects. |
 
 ---
 
