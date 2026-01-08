@@ -108,7 +108,7 @@ I break things, fix them, document everything, and push it to GitHub to track my
   <tr>
     <td>🖥️ IT Admin</td>
     <td align="center"><code>[🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪]</code> 100%</td>
-    <td align="center">🟡 In Progress</td>
+    <td align="center">✅ Complete</td>
   </tr>
 
   <tr>
